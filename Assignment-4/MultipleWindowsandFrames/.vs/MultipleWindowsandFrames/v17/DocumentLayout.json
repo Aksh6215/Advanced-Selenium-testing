@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-4\\MultipleWindowsandFrames\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{720F59EF-B3C4-4175-8B7D-649AEA324844}|MultipleWindowsandFrames\\MultipleWindowsandFrames.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-4\\multiplewindowsandframes\\multiplewindowsandframes\\pages\\windowspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720F59EF-B3C4-4175-8B7D-649AEA324844}|MultipleWindowsandFrames\\MultipleWindowsandFrames.csproj|solutionrelative:multiplewindowsandframes\\pages\\windowspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720F59EF-B3C4-4175-8B7D-649AEA324844}|MultipleWindowsandFrames\\MultipleWindowsandFrames.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-4\\multiplewindowsandframes\\multiplewindowsandframes\\tests\\windowsandframestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720F59EF-B3C4-4175-8B7D-649AEA324844}|MultipleWindowsandFrames\\MultipleWindowsandFrames.csproj|solutionrelative:multiplewindowsandframes\\tests\\windowsandframestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720F59EF-B3C4-4175-8B7D-649AEA324844}|MultipleWindowsandFrames\\MultipleWindowsandFrames.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-4\\multiplewindowsandframes\\multiplewindowsandframes\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720F59EF-B3C4-4175-8B7D-649AEA324844}|MultipleWindowsandFrames\\MultipleWindowsandFrames.csproj|solutionrelative:multiplewindowsandframes\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720F59EF-B3C4-4175-8B7D-649AEA324844}|MultipleWindowsandFrames\\MultipleWindowsandFrames.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-4\\multiplewindowsandframes\\multiplewindowsandframes\\multiplewindowsandframes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{720F59EF-B3C4-4175-8B7D-649AEA324844}|MultipleWindowsandFrames\\MultipleWindowsandFrames.csproj|solutionrelative:multiplewindowsandframes\\multiplewindowsandframes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720F59EF-B3C4-4175-8B7D-649AEA324844}|MultipleWindowsandFrames\\MultipleWindowsandFrames.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-4\\multiplewindowsandframes\\multiplewindowsandframes\\pages\\framepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720F59EF-B3C4-4175-8B7D-649AEA324844}|MultipleWindowsandFrames\\MultipleWindowsandFrames.csproj|solutionrelative:multiplewindowsandframes\\pages\\framepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720F59EF-B3C4-4175-8B7D-649AEA324844}|MultipleWindowsandFrames\\MultipleWindowsandFrames.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-4\\multiplewindowsandframes\\multiplewindowsandframes\\utils\\webdriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720F59EF-B3C4-4175-8B7D-649AEA324844}|MultipleWindowsandFrames\\MultipleWindowsandFrames.csproj|solutionrelative:multiplewindowsandframes\\utils\\webdriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebDriverFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-4\\MultipleWindowsandFrames\\MultipleWindowsandFrames\\Utils\\WebDriverFactory.cs",
+              "RelativeDocumentMoniker": "MultipleWindowsandFrames\\Utils\\WebDriverFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-4\\MultipleWindowsandFrames\\MultipleWindowsandFrames\\Utils\\WebDriverFactory.cs",
+              "RelativeToolTip": "MultipleWindowsandFrames\\Utils\\WebDriverFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:10:48.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultipleWindowsandFrames",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-4\\MultipleWindowsandFrames\\MultipleWindowsandFrames\\MultipleWindowsandFrames.csproj",
+              "RelativeDocumentMoniker": "MultipleWindowsandFrames\\MultipleWindowsandFrames.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-4\\MultipleWindowsandFrames\\MultipleWindowsandFrames\\MultipleWindowsandFrames.csproj*",
+              "RelativeToolTip": "MultipleWindowsandFrames\\MultipleWindowsandFrames.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T12:04:42.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowsAndFramesTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-4\\MultipleWindowsandFrames\\MultipleWindowsandFrames\\Tests\\WindowsAndFramesTests.cs",
+              "RelativeDocumentMoniker": "MultipleWindowsandFrames\\Tests\\WindowsAndFramesTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-4\\MultipleWindowsandFrames\\MultipleWindowsandFrames\\Tests\\WindowsAndFramesTests.cs*",
+              "RelativeToolTip": "MultipleWindowsandFrames\\Tests\\WindowsAndFramesTests.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:05:11.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-4\\MultipleWindowsandFrames\\MultipleWindowsandFrames\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "MultipleWindowsandFrames\\Pages\\BasePage.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-4\\MultipleWindowsandFrames\\MultipleWindowsandFrames\\Pages\\BasePage.cs",
+              "RelativeToolTip": "MultipleWindowsandFrames\\Pages\\BasePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:56:40.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FramePage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-4\\MultipleWindowsandFrames\\MultipleWindowsandFrames\\Pages\\FramePage.cs",
+              "RelativeDocumentMoniker": "MultipleWindowsandFrames\\Pages\\FramePage.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-4\\MultipleWindowsandFrames\\MultipleWindowsandFrames\\Pages\\FramePage.cs",
+              "RelativeToolTip": "MultipleWindowsandFrames\\Pages\\FramePage.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:55:27.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowsPage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-4\\MultipleWindowsandFrames\\MultipleWindowsandFrames\\Pages\\WindowsPage.cs",
+              "RelativeDocumentMoniker": "MultipleWindowsandFrames\\Pages\\WindowsPage.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-4\\MultipleWindowsandFrames\\MultipleWindowsandFrames\\Pages\\WindowsPage.cs",
+              "RelativeToolTip": "MultipleWindowsandFrames\\Pages\\WindowsPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:49:31.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-5\\comprehensivetestsuite\\comprehensivetestsuite\\comprehensivetestsuite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|solutionrelative:comprehensivetestsuite\\comprehensivetestsuite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-5\\comprehensivetestsuite\\comprehensivetestsuite\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|solutionrelative:comprehensivetestsuite\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-5\\comprehensivetestsuite\\comprehensivetestsuite\\pages\\checkerboxespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|solutionrelative:comprehensivetestsuite\\pages\\checkerboxespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-5\\comprehensivetestsuite\\comprehensivetestsuite\\pages\\dropdownpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|solutionrelative:comprehensivetestsuite\\pages\\dropdownpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-5\\comprehensivetestsuite\\comprehensivetestsuite\\pages\\fileuploadpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|solutionrelative:comprehensivetestsuite\\pages\\fileuploadpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-5\\comprehensivetestsuite\\comprehensivetestsuite\\tests\\file.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|solutionrelative:comprehensivetestsuite\\tests\\file.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-5\\comprehensivetestsuite\\comprehensivetestsuite\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|solutionrelative:comprehensivetestsuite\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-5\\comprehensivetestsuite\\comprehensivetestsuite\\tests\\basetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|solutionrelative:comprehensivetestsuite\\tests\\basetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-5\\comprehensivetestsuite\\comprehensivetestsuite\\tests\\checkerboxtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|solutionrelative:comprehensivetestsuite\\tests\\checkerboxtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-5\\comprehensivetestsuite\\comprehensivetestsuite\\tests\\dropdowntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|solutionrelative:comprehensivetestsuite\\tests\\dropdowntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-5\\comprehensivetestsuite\\comprehensivetestsuite\\tests\\fileuploadtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|solutionrelative:comprehensivetestsuite\\tests\\fileuploadtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-5\\comprehensivetestsuite\\comprehensivetestsuite\\tests\\formauthenticationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|solutionrelative:comprehensivetestsuite\\tests\\formauthenticationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|c:\\users\\admin\\desktop\\capegemini training\\pom assignment\\assignment-5\\comprehensivetestsuite\\comprehensivetestsuite\\utilities\\webdriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881B2320-3A4B-46C8-9312-93C26B20DA88}|ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj|solutionrelative:comprehensivetestsuite\\utilities\\webdriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComprehensiveTestSuite",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj",
+              "RelativeDocumentMoniker": "ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj*",
+              "RelativeToolTip": "ComprehensiveTestSuite\\ComprehensiveTestSuite.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T13:45:43.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileUploadPage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Pages\\FileUploadPage.cs",
+              "RelativeDocumentMoniker": "ComprehensiveTestSuite\\Pages\\FileUploadPage.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Pages\\FileUploadPage.cs",
+              "RelativeToolTip": "ComprehensiveTestSuite\\Pages\\FileUploadPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:59:22.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DropdownPage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Pages\\DropdownPage.cs",
+              "RelativeDocumentMoniker": "ComprehensiveTestSuite\\Pages\\DropdownPage.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Pages\\DropdownPage.cs",
+              "RelativeToolTip": "ComprehensiveTestSuite\\Pages\\DropdownPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:59:08.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckerboxesPage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Pages\\CheckerboxesPage.cs",
+              "RelativeDocumentMoniker": "ComprehensiveTestSuite\\Pages\\CheckerboxesPage.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Pages\\CheckerboxesPage.cs",
+              "RelativeToolTip": "ComprehensiveTestSuite\\Pages\\CheckerboxesPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:58:54.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "ComprehensiveTestSuite\\Pages\\BasePage.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Pages\\BasePage.cs",
+              "RelativeToolTip": "ComprehensiveTestSuite\\Pages\\BasePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:58:42.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "ComprehensiveTestSuite\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "ComprehensiveTestSuite\\Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:59:30.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Tests\\BaseTests.cs",
+              "RelativeDocumentMoniker": "ComprehensiveTestSuite\\Tests\\BaseTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Tests\\BaseTests.cs",
+              "RelativeToolTip": "ComprehensiveTestSuite\\Tests\\BaseTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:00:04.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CheckerboxTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Tests\\CheckerboxTests.cs",
+              "RelativeDocumentMoniker": "ComprehensiveTestSuite\\Tests\\CheckerboxTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Tests\\CheckerboxTests.cs",
+              "RelativeToolTip": "ComprehensiveTestSuite\\Tests\\CheckerboxTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:00:16.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DropdownTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Tests\\DropdownTests.cs",
+              "RelativeDocumentMoniker": "ComprehensiveTestSuite\\Tests\\DropdownTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Tests\\DropdownTests.cs",
+              "RelativeToolTip": "ComprehensiveTestSuite\\Tests\\DropdownTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:00:26.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileUploadTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Tests\\FileUploadTests.cs",
+              "RelativeDocumentMoniker": "ComprehensiveTestSuite\\Tests\\FileUploadTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Tests\\FileUploadTests.cs",
+              "RelativeToolTip": "ComprehensiveTestSuite\\Tests\\FileUploadTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:00:48.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "file.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Tests\\file.txt",
+              "RelativeDocumentMoniker": "ComprehensiveTestSuite\\Tests\\file.txt",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Tests\\file.txt",
+              "RelativeToolTip": "ComprehensiveTestSuite\\Tests\\file.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-21T13:01:18.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormAuthenticationTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Tests\\FormAuthenticationTests.cs",
+              "RelativeDocumentMoniker": "ComprehensiveTestSuite\\Tests\\FormAuthenticationTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Tests\\FormAuthenticationTests.cs",
+              "RelativeToolTip": "ComprehensiveTestSuite\\Tests\\FormAuthenticationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:01:04.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebDriverFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Utilities\\WebDriverFactory.cs",
+              "RelativeDocumentMoniker": "ComprehensiveTestSuite\\Utilities\\WebDriverFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Capegemini Training\\POM Assignment\\Assignment-5\\ComprehensiveTestSuite\\ComprehensiveTestSuite\\Utilities\\WebDriverFactory.cs",
+              "RelativeToolTip": "ComprehensiveTestSuite\\Utilities\\WebDriverFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:01:52.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

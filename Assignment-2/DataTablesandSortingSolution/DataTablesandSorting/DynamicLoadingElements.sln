@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicLoadingElements", "DynamicLoadingElements.csproj", "{7355D56C-90DC-4CF6-B806-92250D51ECBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7355D56C-90DC-4CF6-B806-92250D51ECBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7355D56C-90DC-4CF6-B806-92250D51ECBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7355D56C-90DC-4CF6-B806-92250D51ECBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7355D56C-90DC-4CF6-B806-92250D51ECBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CA3D759-080E-4C1B-810A-E54513708727}
+	EndGlobalSection
+EndGlobal
